@@ -13,6 +13,10 @@ public class Smile {
     private Boolean isCrying;
     private Boolean isLaughing;
 
+    public Smile() {
+
+    }
+
     public Smile(Boolean isCrying, Boolean isLaughing) {
         this.isCrying = isCrying;
         this.isLaughing = isLaughing;
