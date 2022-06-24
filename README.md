@@ -1,4 +1,3 @@
-[![CI](https://github.com/BenCoyne/smile_app/actions/workflows/superlinter.yml/badge.svg)](https://github.com/BenCoyne/smile_app/actions/workflows/superlinter.yml)
 ## Smile_App 
 
 Your task today is to connect your source code repository to Github Actions and create a CI pipeline.
