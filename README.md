@@ -13,3 +13,4 @@ Make sure to write a few simple tests for your new simple application.
 We want to push this new codebase to github
 We want to check that all our tests are passing before we are able to merge a pull request into the main branch by creating a github action
 We want to check that there are no code style errors using super linter
+Minor change
