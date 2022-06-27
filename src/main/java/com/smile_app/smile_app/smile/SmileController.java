@@ -11,7 +11,7 @@ import org.springframework.web.server.ResponseStatusException;
 import static org.springframework.http.HttpStatus.NOT_FOUND;
 
 @RestController
-public final class SmileController {
+public class SmileController {
 
     @Autowired
     private SmileRepository smileRepository;
