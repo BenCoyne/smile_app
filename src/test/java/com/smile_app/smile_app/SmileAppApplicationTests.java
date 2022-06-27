@@ -8,6 +8,7 @@ class SmileAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }

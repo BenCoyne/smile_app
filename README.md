@@ -1,4 +1,4 @@
-## Smile_App 
+# Smile App
 
 
 Your task today is to connect your source code repository to GitHub Actions and create a CI pipeline.
